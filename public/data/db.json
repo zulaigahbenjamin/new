@@ -1,0 +1,46 @@
+{
+ "products": [
+        {
+          "id": "1",
+          "name": "Suculant",
+          "image": "https://i.postimg.cc/zGC0bmfs/chinese-evergreen-plant-aglaonema-shutterstock-com-15962.jpg",
+          "price": 120000,
+          "category": "Category A"
+        },
+        {
+          "id": 2,
+          "name": "Sucuulant",
+          "image": "https://i.postimg.cc/qRmZHpKD/hiding-behind-plant.jpg",
+          "price": 120000,
+          "category": "Category B"
+        },
+        {
+          "id": "3",
+          "name": "PRODUCT NAME 3",
+          "image": "https://i.postimg.cc/c6y3sj7T/3604285458.jpg",
+          "price": 220000,
+          "category": "Category A"
+        },
+        {
+          "id": 4,
+         " name": "PRODUCT NAME 4",
+         " image": "https://i.postimg.cc/Xv648Sww/wood-succulant-stand.jpg",
+          "price": 123000,
+          "category": "Category C"
+        },
+        {
+          "id": 5,
+          "name": "PRODUCT NAME 5",
+          "image": "5.PNG",
+          "price": 320000,
+          "category": "Category B"
+        },
+        {
+          "id": 6,
+         " name": "PRODUCT NAME 6",
+          "image": "6.PNG",
+          "price": 120000,
+          "category": "Category C"
+        }
+ ]
+}
